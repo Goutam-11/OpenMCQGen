@@ -1,0 +1,11 @@
+AI in the Classroom
+Because we believe hands-on learning is just as essential as theoretical knowledge, we engage students with AI tools through in-class exercises, homework assignments, project work, case discussions, and even competitions. As students learn to filter, pre-process, analyze, and visualize data, they gain an understanding of the entire lifecycle of data, from collection to interpretation to storytelling.
+
+We find it particularly impactful when student learning includes these components:
+
+Project work. In our advanced analytics courses, we ask students to find projects that align with their majors and the university’s mission of building community and being of service to others. As part of this semesterlong assignment, students must find a publicly available dataset that includes words—not just numbers—and start by cleaning up the data using Tableau Prep. Next, they use Tableau to create a visual representation of the data, and they employ a generative AI platform such as ChatGPT to help them decipher their findings.
+
+Students find the initial step of cleaning the data to be the most challenging because of the sheer quantity of information available. In addition, the fields used in multiple datasets often don’t match up, so they must be separated and standardized. This time-consuming task might not be glamorous, but it’s a necessary skill for our students to learn. In fact, research indicates that up to 80 percent of the analysis process is devoted to just prepping the data.
+
+Case studies. Across the analytics curriculum, students undertake case studies involving real companies so they can see the impact and potential of technology. Students are required to choose companies with raw datasets that require significant pre-processing, then use AI tools to analyze issues these companies are facing and develop potential solutions. In the past, students have studied companies such as a popular coffee chain, a streaming service, and a hotel chain.
+
